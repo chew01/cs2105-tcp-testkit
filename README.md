@@ -15,3 +15,4 @@ either you can download the executable then jump to step 4 or:
 ### notes
 - the client closes the connection on every query, so this will not help you test persistence, sadly.
 - it helps you test response correctness though!
+- i didn't compile a mac executable because i just broke my macbook (and too lazy to configure cross compilation)

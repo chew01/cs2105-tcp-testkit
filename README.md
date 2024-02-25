@@ -12,6 +12,7 @@ either you can download the executable then jump to step 4 or:
 5. set the port that your server is running on, and check it if you wish by clicking the "Try it out" button
 
 ![img.png](img.png)
+
 6. do your get/post/delete queries
 
 ![img_1.png](img_1.png)
